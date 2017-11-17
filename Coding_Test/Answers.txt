@@ -1,0 +1,10 @@
+Que23:
+dict.items(): Return a copy of the dictionary’s list of (key, value) pairs.
+
+dict.iteritems(): Return an iterator over the dictionary’s (key, value) pairs.
+e.g:
+d={1:'one',2:'two',3:'three'}
+d.items() # Returns [(1, 'one'), (2, 'two'), (3, 'three')]
+iteritems() #Returns <dictionary-itemiterator object at 0x01EDBE70>
+
+Que24:
